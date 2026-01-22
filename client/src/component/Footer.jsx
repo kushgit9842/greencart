@@ -18,7 +18,7 @@ const Footer = () => {
           <h3 className="font-bold text-lg tracking-wide text-center">
             Design &amp; Develop by
             <span className="text-primary ml-2 hover:text-primary/80 transition duration-300">
-              Anuj Jain
+              Kushagra and Teams
             </span>
           </h3>
         </div>
